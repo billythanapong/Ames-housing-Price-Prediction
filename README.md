@@ -11,7 +11,7 @@ The goal of this project is to create the linear regression model to predict the
 This project start with examine the behavior of saleprice houses in Ames for finding the features that have high correlation to the saleprice.
 
 
-
+![download%20(1)](./images/download%20(1).png)
 
 
 
@@ -27,6 +27,12 @@ The model contain 60 features, including 41 numeric features and 19 object featu
 This model use train-test split to split the data for training and cross validation to test the performance of the model.
 This model includes clean outliers, adding polynomial terms & dummy variables, and regularization by LASSO.
 As a result, the price predicted by this model may differ from the actual value of around 23555 dollars.
+
+
+![download](./images/download.png)
+
+
+
 
 Before making the decision to buying a house at Ames, I would recommend top 4 things that should be considered on the sale price : new (year built); quality (overall quality); comfortable (size of living area); and design (overall condition).
 
