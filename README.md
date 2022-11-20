@@ -11,8 +11,9 @@ The goal of this project is to create the linear regression model to predict the
 This project start with examine the behavior of saleprice houses in Ames for finding the features that have high correlation to the saleprice.
 
 
-![download%20(1)](./images/download%20(1).png)
+<p align="center"><img src="./images/download%20(1).png" /></p>
 
+- Sale price of houses trend to increasing as the newer of the house
 
 
 ## Conclusions
