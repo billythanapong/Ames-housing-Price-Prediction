@@ -29,8 +29,7 @@ This model includes clean outliers, adding polynomial terms & dummy variables, a
 As a result, the price predicted by this model may differ from the actual value of around 23555 dollars.
 
 
-![download](./images/download.png)
-
+<p align="center"><img src="./images/download.png" /></p>
 
 
 
